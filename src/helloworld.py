@@ -4,4 +4,7 @@ def hello_world(city):
 def main():
   hello_world('NYC')
 
+def test():
+  print('Test')
+
 main()
