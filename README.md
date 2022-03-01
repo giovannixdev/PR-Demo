@@ -1,3 +1,13 @@
+Git is version control..........
+
+Naga
+
+
+
+
+
+
+
 # ThisishowWedoit
 #Version control: AKA source control.
 #It is managing changes to files, you can make different versions/copies of files
