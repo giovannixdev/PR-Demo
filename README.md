@@ -4,3 +4,7 @@
 #and save them in a "state". You can revisit any state and change anything, and 
 #make more states based on that.
 the practice of tracking and managing changes to software code Nancy Isbell
+# GIT is a version control contro sysstem -- Reema
+
+
+
